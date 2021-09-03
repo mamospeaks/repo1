@@ -1,1 +1,2 @@
 a new text file for feature dev in local
+a text file created by some dev to dev some feature
